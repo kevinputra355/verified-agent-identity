@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'kputra355'
         required: true
-        default: 'uangdroid'
+        default: 'kputra355'
       agent_description:
         description: 'kputra355'
         required: true
